@@ -115,7 +115,7 @@ class Create_dictionary(dict):
 
 def main():
     # Load data from CSV
-    filename = "C:\\Users\\shruti.a.nigam\\Documents\\Supplier Selection\\dataset_parts.csv"
+    filename = "dataset_parts.csv"
     data = pd.read_csv(filename, index_col = 'Ai')
     # Load decision matrix from CSV
     df_data = data.iloc[:len(data) - 1, :]
