@@ -44,7 +44,7 @@ scipy==1.9.2
 seaborn==0.12.2
 semver==2.13.0
 sklearn==0.0
-streamlit==1.13.0
+streamlit==1.7.0
 streamlit-nested-layout==0.1.1
 stringcase==1.2.0
 tensorboard==2.10.1
